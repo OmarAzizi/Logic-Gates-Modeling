@@ -5,10 +5,24 @@
 
 // OR gate
 float train[][4] = {
+/* 
+    OR Gate:
+
     {0,0,0},
     {1,0,1},
     {0,1,1},
     {1,1,1},
+*/
+
+/* 
+    AND Gate:
+
+    {0,0,0},
+    {1,0,0},
+    {0,1,0},
+    {1,1,1},
+*/
+
 };
 
 #define TRAIN_COUNT sizeof(train) / sizeof(train[0])
