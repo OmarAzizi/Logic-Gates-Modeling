@@ -4,7 +4,7 @@
 #include <time.h>
 
 // OR gate
-float train[][4] = {
+float train[][3] = {
 /* 
     OR Gate:
 
