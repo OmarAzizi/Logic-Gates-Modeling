@@ -49,8 +49,8 @@ float cost(float w1, float w2, float b) {
 
 int main(void) {
     srand(time(0));
-    float w1 = rand_float()*10;
-    float w2 = rand_float()*10;
+    float w1 = rand_float();
+    float w2 = rand_float();
     float b = rand_float();
     
     float eps = 1e-1;
