@@ -11,6 +11,4 @@
 
 ## Cost Function Visualization with **gnuplot**
 
-![image](https://github.com/OmarAzizi/Logic-Gates-Modeling/assets/110500643/c4cb9680-f5ed-4461-9dc8-832c689e7f50)
-
-
+![Screenshot from 2024-02-13 03-10-16](https://github.com/OmarAzizi/Logic-Gates-Modeling/assets/110500643/6df085fc-c8e8-4451-8fa8-871113c539a9)
