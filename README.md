@@ -2,7 +2,7 @@
 
 ### OR Gate
 
-![Screenshot from 2024-02-13 02-34-52](https://github.com/OmarAzizi/Logic-Gates-Modeling/assets/110500643/eabaa040-d5e5-48f0-be1c-ca46ffcc46f9)
+![image](https://github.com/OmarAzizi/Logic-Gates-Modeling/assets/110500643/c5989217-d785-4aa2-a406-e88ec7cb6f6d)
 
 ### AND Gate
 
@@ -10,6 +10,6 @@
 
 ## Cost Function Visualization with **gnuplot**
 
-![Screenshot from 2024-02-13 02-32-57](https://github.com/OmarAzizi/Logic-Gates-Modeling/assets/110500643/b8490344-290b-4a4a-a13f-c37f53a1d086)
+![image](https://github.com/OmarAzizi/Logic-Gates-Modeling/assets/110500643/63afc303-1541-4e76-bd6d-0940ed7cdcce)
 
 
