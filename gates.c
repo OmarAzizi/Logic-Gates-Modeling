@@ -23,6 +23,14 @@ float train[][3] = {
     {1,1,1},
 */
 
+/* 
+    NAND Gate:
+
+    {0,0,1},
+    {1,0,1},
+    {0,1,1},
+    {1,1,0},
+*/
 };
 
 #define TRAIN_COUNT sizeof(train) / sizeof(train[0])
