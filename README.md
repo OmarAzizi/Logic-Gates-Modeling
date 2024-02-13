@@ -8,6 +8,10 @@
 
 ![image](https://github.com/OmarAzizi/Logic-Gates-Modeling/assets/110500643/63afc303-1541-4e76-bd6d-0940ed7cdcce)
 
+### NAND Gate
+
+![Screenshot from 2024-02-13 03-23-32](https://github.com/OmarAzizi/Logic-Gates-Modeling/assets/110500643/71780fb7-e81f-4c98-b0ea-c306119cb392)
+
 
 ## Cost Function Visualization with **gnuplot**
 
